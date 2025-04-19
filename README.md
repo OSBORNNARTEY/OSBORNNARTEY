@@ -49,9 +49,16 @@ I specialize in offensive security, exploit development, and vulnerability resea
 
 ## 🧪 Certifications
 <div>
-<a href="https://tryhackme.com/certificate/THM-FBHTOEJACW"><img src="https://img.shields.io/badge/-TryHackMe%20Top%201%25-00C853?&style=for-the-badge&logo=tryhackme&logoColor=white" /></a>
+<a href="https://tryhackme.com/certificate/THM-FBHTOEJACW" target="_blank"><img src="https://img.shields.io/badge/-TryHackMe%20Top%201%25-00C853?&style=for-the-badge&logo=tryhackme&logoColor=white" /></a>
 <img src="https://img.shields.io/badge/-eJPT%20(In%20Progress)-FFA000?&style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/-Udemy%20Ethical%20Hacking-03A9F4?&style=for-the-badge&logo=udemy&logoColor=white" />
+<a href="https://www.udemy.com/certificate/UC-94d359c5-3709-4816-9aa0-d920f423be2d/" target="_blank">
+  <img src="https://img.shields.io/badge/-Udemy%20Ethical%20Hacking%20Beginner-03A9F4?&style=for-the-badge&logo=udemy&logoColor=white" />
+</a>
+
+<a href="https://www.udemy.com/certificate/UC-25dc594e-f7b2-436a-b9cc-eaa45e7f6222/" target="_blank">
+  <img src="https://img.shields.io/badge/-Udemy%20Network%20Hacking%20Course-03A9F4?&style=for-the-badge&logo=udemy&logoColor=white" />
+</a>
 </div>
 
 ---
