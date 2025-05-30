@@ -1,5 +1,5 @@
 # Hello, I'm Osborn Nartey 👨🏾‍💻🦅
-<a href="https://www.linkedin.com/in/osborn-nartey-2662b5286"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://linkedin.com/in/osborn-nartey-ojerh-tettey-4680a1366"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://portfolio-osbornnartey.vercel.app"><img src="https://img.shields.io/badge/-Portfolio-000000?&style=for-the-badge&logo=vercel&logoColor=white" /></a>
 
 Welcome to my corner of the internet. I'm a passionate **Penetration Tester**, **CTF Player**, and **Security Researcher** dedicated to breaking things—so we can build them stronger. 💣⚙️
